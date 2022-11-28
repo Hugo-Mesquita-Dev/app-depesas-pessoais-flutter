@@ -1,4 +1,4 @@
-# Life Easier
+# Aplicativo de Despesas pessoais
 
 App de controle de despesas desenvolvido em Flutter.
 
